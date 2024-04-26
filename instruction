@@ -1,0 +1,7 @@
+Please install all of the required python libraries to support this bot
+
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install discord.py
+
+
+Visit https://developers.google.com/calendar/api/quickstart/python to get the credentials for the bot
